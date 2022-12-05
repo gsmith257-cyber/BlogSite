@@ -11,4 +11,4 @@
 * [📊 GraphQL Query Authentication Bypass Vuln](graphql-query-authentication-bypass-vuln.md)
 * [🕸 eWPT Certification Review](ewpt-certification-review.md)
 * [☀ 2022 DOE Cyberforce Competition](2022-doe-cyberforce-competition.md)
-* [Data Mining CVEs and Exploits](data-mining-cves-and-exploits.md)
+* [⛏ Data Mining CVEs and Exploits](data-mining-cves-and-exploits.md)
